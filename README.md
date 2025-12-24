@@ -1,28 +1,63 @@
-# hi, i'm dana
+<!-- dx3ie / github profile -->
 
-data science student at saudi electronic university.  
-currently focused on data analysis, exploratory data analysis (EDA), and data visualization.
+<p align="center">
+  <img src="https://i.imgur.com/ws616cz.png" width="900"/>
+</p>
 
-## what i work on
-- data analysis and EDA on real datasets  
-- data visualization and insight reporting  
-- university projects and hands-on practice  
+<p align="center">
+data science • machine learning • analytics
+</p>
 
-## tools & skills
-- python  
-- numpy, pandas  
-- matplotlib, seaborn  
-- data cleaning and preprocessing  
-- git & github  
+<p align="center">
+i’m dana, a data science student focused on clean, reproducible analysis and applied machine learning.
+</p>
 
-## currently learning
-- advanced EDA techniques  
-- data storytelling through visualization  
-- foundations of machine learning  
+<p align="center">· · ·</p>
 
-## youtube
-i make data science videos focused on learning, analysis, and practical workflows.  
-📺 **deebug** — https://www.youtube.com/@deebug
+<!-- tech stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/python-black?style=flat"/>
+  <img src="https://img.shields.io/badge/pandas-black?style=flat"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=flat"/>
+  <img src="https://img.shields.io/badge/scikit--learn-black?style=flat"/>
+  <img src="https://img.shields.io/badge/sql-black?style=flat"/>
+</p>
 
-## github stats
-[![dana's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dx3ie&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/matplotlib-black?style=flat"/>
+  <img src="https://img.shields.io/badge/seaborn-black?style=flat"/>
+</p>
+
+<p align="center">· · ·</p>
+
+<!-- activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx3ie&theme=github-compact&hide_border=true"/>
+</p>
+
+<p align="center">· · ·</p>
+
+<!-- projects hint -->
+<p align="center">
+applied projects
+</p>
+
+<p align="center">
+  <sub>real datasets • careful evaluation • clear explanations</sub>
+</p>
+
+<p align="center">· · ·</p>
+
+<!-- youtube -->
+<p align="center">
+  <a href="https://www.youtube.com/@deebug1">
+    <img src="https://img.shields.io/badge/youtube-data_science_tutorials-black?style=flat&logo=youtube&logoColor=red"/>
+  </a>
+</p>
+
+<p align="center">· · ·</p>
+
+<!-- profile summary -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dx3ie&theme=github_dark"/>
+</p>
