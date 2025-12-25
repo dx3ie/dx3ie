@@ -9,7 +9,7 @@ data science • machine learning • analytics
 </p>
 
 <p align="center">
-i’m dana, a data science student focused on clean, reproducible analysis and applied machine learning.
+i’m dana, a data science student focused on clean, reproducible analysis & applied machine learning.
 </p>
 
 <p align="center">· · ·</p>
@@ -42,9 +42,7 @@ i’m dana, a data science student focused on clean, reproducible analysis and a
 applied projects
 </p>
 
-<p align="center">
-  <sub>real datasets • careful evaluation • clear explanations</sub>
-</p>
+
 
 <p align="center">· · ·</p>
 
