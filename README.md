@@ -1,4 +1,4 @@
-<!-- dx3ie / github profile -->
+<!-- dx3ie github profile -->
 
 <p align="center">
   <img src="https://i.imgur.com/ws616cz.png" width="900"/>
@@ -14,7 +14,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 
 <p align="center">· · ·</p>
 
-<!-- tech stack -->
+<!-- the tech stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/python-black?style=flat"/>
   <img src="https://img.shields.io/badge/pandas-black?style=flat"/>
@@ -30,18 +30,17 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 
 <p align="center">· · ·</p>
 
-<!-- activity graph -->
+<!-- the activity graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx3ie&theme=github-compact&hide_border=true"/>
 </p>
 
 <p align="center">· · ·</p>
 
-<!-- projects hint -->
+<!-- the projects hint -->
 <p align="center">
 applied projects
 </p>
-
 
 
 <p align="center">· · ·</p>
