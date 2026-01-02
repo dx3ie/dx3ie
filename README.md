@@ -13,7 +13,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 </p>
 
 <p align="center">· · ·</p> 
-
+ 
 <!-- the tech stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/python-black?style=flat"/>
