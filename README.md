@@ -10,7 +10,7 @@ data science • machine learning • analytics
 
 <p align="center">
 i’m dana, a data science student focused on clean, reproducible analysis & applied machine learning.  
-</p>
+</p> 
 
 <p align="center">· · ·</p> 
  
