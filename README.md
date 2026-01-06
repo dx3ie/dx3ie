@@ -20,7 +20,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
   <img src="https://img.shields.io/badge/pandas-black?style=flat"/>
   <img src="https://img.shields.io/badge/numpy-black?style=flat"/>
   <img src="https://img.shields.io/badge/scikit--learn-black?style=flat"/>
-  <img src="https://img.shields.io/badge/sql-black?style=flat"/>
+  <img src="https://img.shields.io/badge/sql-black?style=flat"/> 
 </p>
 
 <p align="center">
