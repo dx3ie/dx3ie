@@ -32,7 +32,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 
 <!-- the activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx3ie&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx3ie&theme=github-compact&hide_border=true"/> 
 </p>
 
 <p align="center">· · ·</p>
