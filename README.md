@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-data science • machine learning • analytics 
+data science • machine learning • analytics  
 </p>
  
 <p align="center">  
