@@ -41,7 +41,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 <p align="center">
 applied projects
 </p>
-
+ 
 
 <p align="center">· · ·</p>
 
