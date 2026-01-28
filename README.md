@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://i.imgur.com/ws616cz.png" width="900"/>
 </p>
- 
+  
 <p align="center">
 data science • machine learning • analytics  
 </p>
