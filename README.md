@@ -11,7 +11,7 @@ data science • machine learning • analytics
 i’m dana, a data science student focused on clean, reproducible analysis & applied machine learning.   
 </p> 
 
-<p align="center">· · ·</p> 
+<p align="center">· · ·</p>  
 
 <p align="center">  
   <img src="https://img.shields.io/badge/python-black?style=flat"/>
