@@ -5,7 +5,7 @@
 </p> 
   
 <p align="center">
-data science • machine learning • analytics  
+data science • machine learning • analytics
 </p>
 <p align="center">    
 i’m dana, a data science student focused on clean, reproducible analysis & applied machine learning.  
