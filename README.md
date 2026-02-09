@@ -22,7 +22,7 @@ i’m dana, a data science student focused on clean, reproducible analysis & app
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/matplotlib-black?style=flat"/> 
-  <img src="https://img.shields.io/badge/seaborn-black?style=flat"/>
+  <img src="https://img.shields.io/badge/seaborn-black?style=flat"/> 
 </p>
 
 <p align="center">· · ·</p>
