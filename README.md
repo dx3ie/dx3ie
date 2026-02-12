@@ -10,7 +10,7 @@ data science • machine learning • analytics
 <p align="center">     
 </p>  
 
-<p align="center">· · ·</p>  
+<p align="center">· · ·</p>   
 
 <p align="center">  
   <img src="https://img.shields.io/badge/python-black?style=flat"/>
