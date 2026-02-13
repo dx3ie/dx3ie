@@ -29,7 +29,7 @@ data science • machine learning • analytics
 
 <!-- github activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dx3ie&theme=github-compact&hide_border=true" width="500"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbydee&theme=github-compact&hide_border=true" width="500"/> 
 </p>
 
 <p align="center">· · ·</p>
